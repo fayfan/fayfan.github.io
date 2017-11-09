@@ -4,17 +4,17 @@
 title: Home Page
 description: This is Sara's Website
 keywords: Sara
-baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: sarabaltz.com # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: sarabaltz.com  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Sara  # Be used at blog posts' author.
-  first_name: Sara  # Be used at index page about me section.
-  last_name: Baltz  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  first_name: Sara Baltz  # Be used at index page about me section.
+  last_name:  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/FB Profile Pic.jpg  # upload your avatar at directory and edit it.
   github_username: fayfan  # Leave blank if you don't have now
   linkedin_id: sarabaltz # Leave blank if you don't have now
 
