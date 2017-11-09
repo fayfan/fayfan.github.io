@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
+- last_name: Contact Me
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: 
+  website: https://linkedin.com/in/sarabaltz
+  email: sbaltz98@gmail.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
+- last_name: Ever
+  first_name: Greatest
+  desc: Send Help
   website: https://github.com
   email: coo@google.com
