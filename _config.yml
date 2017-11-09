@@ -21,10 +21,10 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-user-md
-    - name: user-md
+    - name: fa-medkit
   skill_icon2:
     - name: fa-stethoscope
-    - name: stethoscope
+    - name: fa-heartbeat
   desc: Leave this blank  # Describe yourself.
 
 # comment
