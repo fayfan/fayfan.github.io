@@ -4,7 +4,7 @@
 - name: Neuroscience, B.S.
   i18n: http://www.utdallas.edu/bbs/degrees/nsc/
   gh_user: http://www.utdallas.edu/bbs/degrees/nsc/
-  repo: http://www.utdallas.edu/bbs/degrees/nsc/
+  repo: 
   img: /static/assets/img/landing/jekyll.png
   desc: This is my degree program's website.
 
