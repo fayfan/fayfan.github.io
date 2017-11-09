@@ -3,14 +3,14 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Neuroscience, B.S.
   i18n: 
-  gh_user: undergraduate
-  repo: undergraduate
+  gh_user: 
+  repo: 
   img: /static/assets/img/landing/jekyll.png
   desc: This is my degree program's website.
 
 - name: My Resume
   i18n: 
-  gh_user: resume
-  repo: resume
+  gh_user: 
+  repo: 
   img: /static/assets/img/landing/python.png
   desc: This is a link to my resume.
