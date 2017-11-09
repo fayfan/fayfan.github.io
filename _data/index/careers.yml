@@ -15,15 +15,15 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: St. Agnes Academy
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. 2012 - May 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: High School
     i18n: company_b_job
   icon: fa-plus-square
