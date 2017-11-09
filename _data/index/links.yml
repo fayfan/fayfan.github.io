@@ -2,8 +2,6 @@
 - last_name: Location
   first_name:
   desc: Houston, TX
-  website: 
-  email: 
   
 - last_name: Contact Me
   first_name:
@@ -11,8 +9,8 @@
   website: https://linkedin.com/in/sarabaltz
   email: sbaltz98@gmail.com
 
-- last_name: Ever
-  first_name: Greatest
-  desc: Send Help
+- last_name: Around the Web
+  first_name: 
+  desc: 
   website: https://github.com
   email: coo@google.com
