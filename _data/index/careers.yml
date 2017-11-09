@@ -12,7 +12,7 @@
   job:
     detail: Student
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
 
 - name:
     detail: St. Agnes Academy
@@ -26,4 +26,4 @@
   job:
     detail: Student
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
