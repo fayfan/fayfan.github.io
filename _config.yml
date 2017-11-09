@@ -23,8 +23,8 @@ author:  # change following line to your infomation.
     - name: fa-md
     - name: user-md
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-stethoscope
+    - name: stethoscope
   desc: Leave this blank  # Describe yourself.
 
 # comment
