@@ -2,9 +2,9 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Neuroscience, B.S.
-  i18n: 
+  i18n: http://www.utdallas.edu/bbs/degrees/nsc/
   gh_user: 
-  repo: http://www.utdallas.edu/bbs/degrees/nsc/
+  repo: 
   img: /static/assets/img/landing/jekyll.png
   desc: This is my degree program's website.
 
