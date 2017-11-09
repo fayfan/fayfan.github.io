@@ -2,21 +2,15 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Neuroscience, B.S.
-  i18n: undergraduate
+  i18n: 
   gh_user: undergraduate
   repo: undergraduate
   img: /static/assets/img/landing/jekyll.png
   desc: This is my degree program's website.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: My Resume
+  i18n: 
+  gh_user: resume
+  repo: resume
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: This is a link to my resume.
