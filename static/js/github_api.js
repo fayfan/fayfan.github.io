@@ -13,7 +13,7 @@ $(document).ready(function() {
   for (var i = 0; i < users.length; i++) {
     $.ajax({
     type: "GET",
-    url: "https://api.github.com/users/" + users[i] + "/repos?per_page=100",
+    url: "https://" + users[i] + "/repos?per_page=100",
     tryCount : 0,
     retryLimit : 3,
     async: true,
