@@ -10,7 +10,7 @@
     detail: Aug. 2016 - May 2020
     i18n: company_a_date
   job:
-    detail: Undergraduate
+    detail: Student
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -18,12 +18,12 @@
     detail: St. Agnes Academy
     i18n: company_b
   desc:
-    detail: 
+    detail: High School
     i18n: company_b_desc
   date:
     detail: Aug. 2012 - May 2016
     i18n: company_b_date
   job:
-    detail: High School
+    detail: Student
     i18n: company_b_job
   icon: fa-plus-square
