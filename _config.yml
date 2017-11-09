@@ -15,8 +15,9 @@ author:  # change following line to your infomation.
   first_name: Sara Baltz  # Be used at index page about me section.
   last_name:  # Be used at index page about me section.
   avatar: /static/assets/img/landing/FB Profile Pic.jpg  # upload your avatar at directory and edit it.
-  github_username: fayfan  # Leave blank if you don't have now
+  github_username:  # Leave blank if you don't have now
   linkedin_id: sarabaltz # Leave blank if you don't have now
+  email: sbaltz98@gmail.com
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
