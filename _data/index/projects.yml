@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Neuroscience, B.S.
   i18n: 
-  gh_user: http://www.utdallas.edu/bbs/degrees/nsc/
-  repo: 
+  gh_user: 
+  repo: http://www.utdallas.edu/bbs/degrees/nsc/
   img: /static/assets/img/landing/jekyll.png
   desc: This is my degree program's website.
 
