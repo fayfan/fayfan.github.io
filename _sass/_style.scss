@@ -2504,10 +2504,10 @@ body {
     width: 200%;
     //either "repeat" or "no-repeat"
     &.one {
-      background: url("../assets/img/landing/Origami Crane Pattern.svg") 10% 0 repeat;
+      background: url("../assets/img/landing/Origami Crane Pattern.svg") 50% 0 repeat;
     }
     &.two {
-      background: url("../assets/img/landing/Brain Pattern.png") 5% 0 repeat;
+      background: url("../assets/img/landing/Brain Pattern.png") 50% 0 repeat;
     }
   }
   .carousel {
@@ -2525,7 +2525,7 @@ body {
     top: 0;
     left: 0;
     min-width: 100%;
-    height: 470px;
+    height: 300px;
   }
   .carousel-fade {
     .carousel-inner {
