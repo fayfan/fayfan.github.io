@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Sara Baltz  # Be used at blog posts' author.
   first_name: Sara  # Be used at index page about me section.
   last_name: Baltz  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Sara Baltz Profile Photo.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/Sara Baltz Profile Photo.png  # upload your avatar at directory and edit it.
   github_username:  # Leave blank if you don't have now
   linkedin_id: sarabaltz # Leave blank if you don't have now
   email: sbaltz98@gmail.com # Leave blank if you don't have now
