@@ -51,6 +51,7 @@ h3, h4, h5 {
     color: #999c9e;
   }
   > li.active > a {
+    background-color: #293846;
     color: #fff;
   }
 }
@@ -65,11 +66,13 @@ h3, h4, h5 {
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
     background-color: #293846;
+    color: #fff;
   }
 }
 
 .navbar-default {
   background-color: #293846;
+  color: #fff;
 }
 
 .nav > li > a i {
