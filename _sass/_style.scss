@@ -64,13 +64,13 @@ h3, h4, h5 {
 
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
-    background-color: #293846;
+    background: #293846;
     color: #fff;
   }
 }
 
 .navbar-default {
-  background-color: #293846;
+  background: #293846;
   color: #fff;
 }
 
@@ -108,12 +108,12 @@ h3, h4, h5 {
 
 .nav-header {
   padding: 33px 25px;
-  background: #293846;
+  background-color: #293846;
 }
 
 .nav > li.active {
   border-left: 4px solid #a7b0e9;
-  background: #fff;
+  color: #a7b1c2;
 }
 
 .nav-header {
@@ -155,15 +155,15 @@ h3, h4, h5 {
 }
 
 .navbar-default .landing_link a {
-  background: #a7b0e9;
+  background: #a7b1c2;
   color: #fff;
   &:hover {
-    background: #a7b0e9 !important;
+    background: #a7b1c2 !important;
     color: #fff;
   }
   span.label {
-    background: #fff;
-    color: #a7b0e9;
+    background: #a7b1c2;
+    color: #fff;
   }
 }
 
