@@ -2500,7 +2500,7 @@ body {
     height: auto;
   }
   .header-back {
-    height: 100px;
+    height: 300px;
     width: 200%;
     //either "repeat" or "no-repeat"
     &.one {
@@ -2511,7 +2511,7 @@ body {
     }
   }
   .carousel {
-    height: 300px;
+    height: 100px;
   }
   .carousel-caption {
     z-index: 10;
