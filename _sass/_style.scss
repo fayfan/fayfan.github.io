@@ -64,12 +64,12 @@ h3, h4, h5 {
 
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
-    background-color: transparent;
+    background-color: #293846;
   }
 }
 
 .navbar-default {
-  background-color: transparent;
+  background-color: #293846;
 }
 
 .nav > li > a i {
@@ -106,7 +106,7 @@ h3, h4, h5 {
 
 .nav-header {
   padding: 33px 25px;
-  background: url("../assets/img/landing/Origami Crane Pattern.svg") 50% 0 repeat;
+  background: #293846;
 }
 
 .nav > li.active {
