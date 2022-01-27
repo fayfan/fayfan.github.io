@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of Texas at Dallas
+    detail: UNT Health Science Center
     i18n: company_a
   desc:
-    detail: Neuroscience, B.S.
+    detail: Medical Science, M.S.
     i18n: company_a_desc
   date:
-    detail: Aug. 2016 - May 2020
+    detail: June 2021 - current
     i18n: company_a_date
   job:
-    detail: Student
+    detail: Masters Student
     i18n: company_a_job
   icon: fa-graduation-cap
 
 - name:
-    detail: St. Agnes Academy
+    detail: UT Dallas
     i18n: company_b
   desc:
-    detail: High School
+    detail: Neuroscience, B.S.
     i18n: company_b_desc
   date:
-    detail: Aug. 2012 - May 2016
+    detail: August 2016 - May 2020
     i18n: company_b_date
   job:
-    detail: Student
+    detail: Undergraduate Student
     i18n: company_b_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: St. Agnes Academy
+    i18n: company_c
+  desc:
+    detail: High School
+    i18n: company_c_desc
+  date:
+    detail: August 2012 - May 2016
+    i18n: company_c_date
+  job:
+    detail: High School Student
+    i18n: company_c_job
   icon: fa-graduation-cap
