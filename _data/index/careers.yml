@@ -12,7 +12,7 @@
   job:
     detail: Fort Worth, TX
     i18n: company_d_job
-  icon: "fad fa-graduation-cap"
+  icon: fa-graduation-cap
 
 - name:
     detail: Fort Bend Neurology
@@ -26,7 +26,7 @@
   job:
     detail: Sugar Land, TX
     i18n: company_c_job
-  icon: fas fa-stethoscope
+  icon: fa-stethoscope
 
 - name:
     detail: University of Texas at Dallas
@@ -40,7 +40,7 @@
   job:
     detail: Richardson, TX
     i18n: company_b_job
-  icon: fas fa-graduation-cap
+  icon: fa-graduation-cap
 
 - name:
     detail: St. Agnes Academy
@@ -54,4 +54,4 @@
   job:
     detail: Houston, TX
     i18n: company_a_job
-  icon: fad fa-graduation-cap
+  icon: fa-graduation-cap
