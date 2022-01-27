@@ -2,17 +2,31 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: UNT Health Science Center
-    i18n: company_a
+    i18n: company_d
   desc:
     detail: Medical Science, M.S.
-    i18n: company_a_desc
+    i18n: company_d_desc
   date:
     detail: June 2021 - current
-    i18n: company_a_date
+    i18n: company_d_date
   job:
     detail: Masters Student
-    i18n: company_a_job
-  icon: fa-graduation-cap
+    i18n: company_d_job
+  icon: fa-duotone fa-graduation-cap
+
+- name:
+    detail: Fort Bend Neurology
+    i18n: company_c
+  desc:
+    detail: 
+    i18n: company_c_desc
+  date:
+    detail: August 2020 - May 2021
+    i18n: company_c_date
+  job:
+    detail: Medical Administrative Assistant
+    i18n: company_c_job
+  icon: fa-duotone fa-stethoscope
 
 - name:
     detail: UT Dallas
@@ -26,18 +40,18 @@
   job:
     detail: Undergraduate Student
     i18n: company_b_job
-  icon: fa-graduation-cap
+  icon: fa-duotone fa-graduation-cap
 
 - name:
     detail: St. Agnes Academy
-    i18n: company_c
+    i18n: company_a
   desc:
-    detail: High School
-    i18n: company_c_desc
+    detail: 
+    i18n: company_a_desc
   date:
     detail: August 2012 - May 2016
-    i18n: company_c_date
+    i18n: company_a_date
   job:
     detail: High School Student
-    i18n: company_c_job
-  icon: fa-graduation-cap
+    i18n: company_a_job
+  icon: fa-duotone fa-graduation-cap
