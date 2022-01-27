@@ -12,7 +12,7 @@
   job:
     detail: Fort Worth, TX
     i18n: company_d_job
-  icon: fa-solid fa-graduation-cap
+  icon: "fa-solid fa-graduation-cap"
 
 - name:
     detail: Fort Bend Neurology
