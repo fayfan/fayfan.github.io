@@ -26,8 +26,8 @@ author:  # change following line to your infomation.
     - name: fa-user-md
     - name: fa-medkit
   skill_icon2:
-    - name: fa-window-restore
-    - name: fa-computer
+    - name: fa-layer-kit
+    - name: fa-desktop
   desc: Aspiring Software Developer  # Describe yourself.
 
 # comment
