@@ -2503,13 +2503,14 @@ body {
   .header-back {
     height: 150px;
     width: 200%;
-    background: url("../assets/img/landing/Brain_Pattern.png");
-    //either "repeat" or "no-repeat"
+    background-position: 50% 0;
+    background-repeat: repeat;
+    background-size: cover;
     &.one {
-      background: url("../assets/img/landing/Origami_Crane_Pattern.svg") 50% 0 repeat;
+      background: url("../assets/img/landing/Origami_Crane_Pattern.svg");
     }
     &.two {
-      background: url("../assets/img/landing/Brain_Pattern.png") 50% 0 repeat;
+      background: url("../assets/img/landing/Brain_Pattern.png");
     }
   }
   .carousel {
