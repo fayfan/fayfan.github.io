@@ -2,7 +2,7 @@
 
 # Website settings
 title: Sara Baltz
-description: This is Sara's Website
+description: Welcome to Sara's Website!
 keywords: Sara
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: sarabaltz.com  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -26,9 +26,9 @@ author:  # change following line to your infomation.
     - name: fa-user-md
     - name: fa-medkit
   skill_icon2:
-    - name: fa-stethoscope
-    - name: fa-heartbeat
-  desc: Hello world!  # Describe yourself.
+    - name: fa-terminal
+    - name: fa-laptop-code
+  desc: Aspiring Software Developer  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
