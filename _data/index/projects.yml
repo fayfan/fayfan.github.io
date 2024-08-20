@@ -1,10 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Clinical Research Management, M.S.
+  url: https://www.unthsc.edu/school-of-biomedical-sciences/clinical-research-management/
+  img: /static/assets/img/landing/UNTHSC Circle Logo.png
+  desc: This is my graduate degree program's website.
+
 - name: Neuroscience, B.S.
-  url: http://www.utdallas.edu/bbs/degrees/nsc/
+  url: https://catalog.utdallas.edu/now/undergraduate/programs/bbs/neuroscience/
   img: /static/assets/img/landing/UTD Monogram.png
-  desc: This is my degree program's website.
+  desc: This is my undergraduate degree program's website.
 
 - name: My Resume
   i18n: 
