@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
     - name: fa-user-md
     - name: fa-medkit
   skill_icon2:
-    - name: fa-display
+    - name: fa-desktop
     - name: fa-desktop
   desc: Aspiring Software Developer  # Describe yourself.
 
