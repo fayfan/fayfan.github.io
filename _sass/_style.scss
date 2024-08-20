@@ -2505,10 +2505,10 @@ body {
     width: 200%;
     //either "repeat" or "no-repeat"
     &.one {
-      background: url("../assets/img/landing/Origami Crane Pattern.svg") 50% 0 repeat;
+      background: url(../assets/img/landing/Origami Crane Pattern.svg) 50% 0 repeat;
     }
     &.two {
-      background: url("../assets/img/landing/Brain Pattern.png") 50% 0 repeat;
+      background: url(../assets/img/landing/Brain Pattern.png) 50% 0 repeat;
     }
   }
   .carousel {
