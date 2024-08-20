@@ -1,13 +1,41 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: App Academy
+    i18n: company_d
+  desc:
+    detail: Software Engineering Track (Online Full-Time), Certificate
+    i18n: company_d_desc
+  date:
+    detail: September 2024 - March 2025
+    i18n: company_d_date
+  job:
+    detail: Remote
+    i18n: company_d_job
+  icon: fa-code
+
+- name:
+    detail: Baylor Scott & White Research Institute
+    i18n: company_d
+  desc:
+    detail: Clinical Research Coordinator 1
+    i18n: company_d_desc
+  date:
+    detail: February 2023 - September 2024
+    i18n: company_d_date
+  job:
+    detail: Dallas, TX
+    i18n: company_d_job
+  icon: fa-flask-vial
+
+- name:
     detail: University of North Texas Health Science Center
     i18n: company_d
   desc:
-    detail: Medical Science, M.S.
+    detail: Clinical Research Management, M.S.
     i18n: company_d_desc
   date:
-    detail: June 2021 - current
+    detail: June 2021 - May 2023
     i18n: company_d_date
   job:
     detail: Fort Worth, TX
