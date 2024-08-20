@@ -26,7 +26,7 @@
   job:
     detail: Dallas, TX
     i18n: company_d_job
-  icon: fa-flask
+  icon: fa-clipboard
 
 - name:
     detail: University of North Texas Health Science Center
